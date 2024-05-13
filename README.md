@@ -3,7 +3,6 @@
 B站测评视频：
 
 ===========================================================================
-
 ![](https://github.com/Xmingbai/ERYING-MATX--i9-13900HX-Hackintosh/blob/main/00.png)
 ![](https://github.com/Xmingbai/ERYING-MATX--i9-13900HX-Hackintosh/blob/main/0.png)
 ![](https://github.com/Xmingbai/ERYING-MATX--i9-13900HX-Hackintosh/blob/main/2.png)
@@ -12,8 +11,6 @@ B站测评视频：
 ![](https://github.com/Xmingbai/ERYING-MATX--i9-13900HX-Hackintosh/blob/main/5.png)
 ![](https://github.com/Xmingbai/ERYING-MATX--i9-13900HX-Hackintosh/blob/main/6.png)
 ![](https://github.com/Xmingbai/ERYING-MATX--i9-13900HX-Hackintosh/blob/main/7.png)
-
-
 
 # 主机配置单
 主机 ：ERYING i9-13900HX-D5-VC 也适用其他i5\i7\i9款同系列主板
