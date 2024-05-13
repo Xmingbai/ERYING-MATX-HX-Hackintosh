@@ -1,17 +1,22 @@
 # ERYING-MATX--i9-13900HX-Hackintosh
 
-
-
-# ERYING-13900H-ITX-Hachintosh
-
-
-B站测评视频：https://www.bilibili.com/video/BV1qe411k77i
-
-![](https://github.com/Xmingbai/ERYING-13900H-ITX-Hachintosh/blob/main/About.png)
+B站测评视频：
 
 ===========================================================================
+
+![](https://github.com/Xmingbai/ERYING-MATX--i9-13900HX-Hackintosh/blob/main/00.png)
+![](https://github.com/Xmingbai/ERYING-MATX--i9-13900HX-Hackintosh/blob/main/0.png)
+![](https://github.com/Xmingbai/ERYING-MATX--i9-13900HX-Hackintosh/blob/main/2.png)
+![](https://github.com/Xmingbai/ERYING-MATX--i9-13900HX-Hackintosh/blob/main/3.png)
+![](https://github.com/Xmingbai/ERYING-MATX--i9-13900HX-Hackintosh/blob/main/4.png)
+![](https://github.com/Xmingbai/ERYING-MATX--i9-13900HX-Hackintosh/blob/main/5.png)
+![](https://github.com/Xmingbai/ERYING-MATX--i9-13900HX-Hackintosh/blob/main/6.png)
+![](https://github.com/Xmingbai/ERYING-MATX--i9-13900HX-Hackintosh/blob/main/7.png)
+
+
+
 # 主机配置单
-主机 ：ERYING  i9-13900HX-D5-VC
+主机 ：ERYING i9-13900HX-D5-VC 也适用其他i5\i7\i9款同系列主板
 
 CPU ：i9-13900HX
 
@@ -24,6 +29,7 @@ CPU ：i9-13900HX
 网卡 ：intel AC9560/AX200
 
 ===========================================================================
+
 # BIOS设置及注意事项
 
 无需任何默认状态设置即可安装macOS
@@ -50,7 +56,5 @@ USB端口定制
 
 ===========================================================================
 
-# 系统截图
 
-![](https://github.com/Xmingbai/Minisforum-NAG6-Hackintosh/blob/main/BT.png)
 
