@@ -1,4 +1,4 @@
-# ERYING-MATX--i9-13900HX-Hackintosh
+# ERYING-MATX-HX-Hackintosh
 
 B站测评视频：
 
@@ -13,7 +13,7 @@ B站测评视频：
 ![](https://github.com/Xmingbai/ERYING-MATX--i9-13900HX-Hackintosh/blob/main/7.png)
 
 # 主机配置单
-主机 ：ERYING i9-13900HX-D5-VC 也适用其他i5\i7\i9款同系列主板
+主机 ：ERYING i9-13900HX-D5-VC 也适用其他i5\i7\i9款同HX系列主板
 
 CPU ：i9-13900HX
 
