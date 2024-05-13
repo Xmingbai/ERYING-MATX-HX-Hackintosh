@@ -5,6 +5,7 @@ B站测评视频：
 ===========================================================================
 ![](https://github.com/Xmingbai/ERYING-MATX--i9-13900HX-Hackintosh/blob/main/00.png)
 ![](https://github.com/Xmingbai/ERYING-MATX--i9-13900HX-Hackintosh/blob/main/0.png)
+200W性能
 ![](https://github.com/Xmingbai/ERYING-MATX--i9-13900HX-Hackintosh/blob/main/2.png)
 ![](https://github.com/Xmingbai/ERYING-MATX--i9-13900HX-Hackintosh/blob/main/3.png)
 ![](https://github.com/Xmingbai/ERYING-MATX--i9-13900HX-Hackintosh/blob/main/4.png)
